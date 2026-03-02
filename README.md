@@ -21,12 +21,12 @@ The goal is to build strong practical skills required for **Data Analyst roles**
 
 📂 Repository Structure
 
-MySQL/ – Practice queries and database exercises
-Excel/ – Data cleaning and dashboard files
-Tableau/ – Visualization projects
-PowerBI/ – Dashboard projects with screenshots
-Pandas/ – Data analysis exercises
-Python_Projects/ – Mini end-to-end projects
+MySQL/ – Practice queries and database exercises<br>
+Excel/ – Data cleaning and dashboard files<br>
+Tableau/ – Visualization projects<br>
+PowerBI/ – Dashboard projects with screenshots<br>
+Pandas/ – Data analysis exercises<br>
+Python_Projects/ – Mini end-to-end projects<br>
 
 ---
 
