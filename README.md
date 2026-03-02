@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 This repository documents my structured learning journey in **Data Analytics**.  
-It contains hands-on practice across databases, visualization tools, programming, cloud fundamentals, and technical interview preparation.
+It contains hands-on practice across databases, visualization tools, programming and cloud fundamentals.
 
 The goal is to build strong practical skills required for **Data Analyst roles** through consistent practice and project-based learning.
 
@@ -12,27 +12,21 @@ The goal is to build strong practical skills required for **Data Analyst roles**
 - **MySQL** – Database creation, joins, aggregations, subqueries  
 - **Excel** – Data cleaning, pivot tables, formulas, dashboards  
 - **Tableau** – Interactive data visualization and reporting  
-- **Power BI** – KPI dashboards, DAX basics, business insights  
-- **Python** – Core programming for data analysis  
+- **Power BI** – KPI dashboards, DAX basics, business insights   
 - **Pandas** – Data manipulation, transformation, and EDA  
 - **Azure (Basics)** – Cloud fundamentals for data roles  
 - **AWS (Basics)** – Overview of cloud services  
-- **Technical Interview Practice** – SQL, Python, and case-based questions  
 
 ---
 
-## 📂 Repository Structure
-Python-Data-Analysis-Learning/
-│
-├── MySQL/ # SQL practice and database exercises
-├── Excel/ # Excel-based analysis and dashboards
-├── Tableau/ # Visualization projects
-├── PowerBI/ # Dashboard files and screenshots
-├── Python/ # Core Python practice
-├── Pandas/ # Data analysis and EDA exercises
-├── Python_Projects/ # Mini end-to-end analysis projects
-├── Azure/ # Cloud fundamentals (Azure)
-└── AWS/ # Cloud fundamentals (AWS)
+📂 Repository Structure
+
+MySQL/ – Practice queries and database exercises
+Excel/ – Data cleaning and dashboard files
+Tableau/ – Visualization projects
+PowerBI/ – Dashboard projects with screenshots
+Pandas/ – Data analysis exercises
+Python_Projects/ – Mini end-to-end projects
 
 ---
 
