@@ -1,0 +1,13 @@
+Hello Iram Noor
+Welcome to Python file handling!
+
+This file contains multiple lines of text.
+Each line can be read using readlines() or read().
+
+You can practice:
+- Reading the whole file at once
+- Reading line by line
+- Stripping newline characters
+- Counting lines or words
+
+Happy coding!
