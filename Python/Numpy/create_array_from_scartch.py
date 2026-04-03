@@ -36,3 +36,5 @@ print(np.empty(3))
 print(np.zeros(10,dtype='int16'))
 #Or using the associated numpy object 
 print(np.zeros(10,dtype=np.int16))
+
+ 
