@@ -5,6 +5,7 @@ data={"state":["UP","MP","Maharastra","Rajasthan","Pune","Patna"],
       "pop":[1.4,3.5,2.3,1.3,7.5,8.2]
       }
 new_data=pd.DataFrame(data)
+
 print(new_data)
 #Specifying a sequence of columns
 seq=pd.DataFrame(data,columns=["year","pop","state"])
